@@ -1,0 +1,7 @@
+# Ignore compiled files
+*.class
+
+# Ignore folders
+bin/
+out/
+.vscode/
